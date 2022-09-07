@@ -54,8 +54,8 @@
         android:layout_width="250dp"
         android:layout_height="250dp"
         android:layout_centerInParent="true"
-        app:backimage="@color/purple_700"
         android:background="@android:color/transparent"
+        app:backimage="@color/black"
         app:linecolor="#fff"
         app:needlecolor="#fff"
         app:removeborder="false" />
