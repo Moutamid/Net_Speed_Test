@@ -7,8 +7,4 @@ public class Constants {
     public static final String TWO_FORTY_SIX_DOLLAR_PRODUCT = "two.forty.six.com.moutamid.speed_test";
     public static final String TWO_SIXTY_FIVE_DOLLAR_PRODUCT = "two.sixty.five.com.moutamid.speed_test";
     public static final String THREE_HUNDRED_DOLLAR_PRODUCT = "three.hundred.com.moutamid.speed_test";
-
-    /*public static final String ONE_FIFTY_DOLLAR_PRODUCT = "one.fifty.com.example.fakecaller";
-    public static final String TWO_SIXTY_DOLLAR_PRODUCT = "two.sixty.com.example.fakecaller";
-    public static final String FIFTY_DOLLAR_PRODUCT = "fifty.com.example.fakecaller";*/
 }
