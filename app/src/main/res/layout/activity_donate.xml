@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/white"
+    android:background="#242E38"
     tools:context=".DonateActivity">
 
     <androidx.appcompat.widget.Toolbar
@@ -28,7 +28,7 @@
             android:layout_height="wrap_content"
             android:gravity="center"
             android:text="Product for sale"
-            android:textColor="@color/tvColor"
+            android:textColor="@color/white"
             android:textSize="20sp"
             android:textStyle="bold" />
     </RelativeLayout>
@@ -44,7 +44,7 @@
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
             android:text="Card Tokens\n200 Card Tokens"
-            android:textColor="@color/tvColor" />
+            android:textColor="@color/white" />
 
         <Button
             android:id="@+id/twohundred"
@@ -67,7 +67,7 @@
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
             android:text="Card Tokens\n225 Card Tokens"
-            android:textColor="@color/tvColor" />
+            android:textColor="@color/white" />
 
         <Button
             android:id="@+id/twotwofive"
@@ -90,7 +90,7 @@
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
             android:text="Card Tokens\n246 Card Tokens"
-            android:textColor="@color/tvColor" />
+            android:textColor="@color/white" />
 
         <Button
             android:id="@+id/twofoursix"
@@ -113,7 +113,7 @@
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
             android:text="Card Tokens\n265 Card Tokens"
-            android:textColor="@color/tvColor" />
+            android:textColor="@color/white" />
 
         <Button
             android:id="@+id/twosixfive"
@@ -136,7 +136,7 @@
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
             android:text="Card Tokens\n300 Card Tokens"
-            android:textColor="@color/tvColor" />
+            android:textColor="@color/white" />
 
         <Button
             android:id="@+id/threehundred"
@@ -155,7 +155,7 @@
         android:layout_marginTop="30dp"
         android:gravity="start"
         android:text="Purchased consumables"
-        android:textColor="@color/tvColor"
+        android:textColor="@color/white"
         android:textSize="18sp"
         android:textStyle="bold" />
 
@@ -163,7 +163,7 @@
         android:layout_width="match_parent"
         android:layout_height="1dp"
         android:layout_marginTop="10dp"
-        android:background="@color/tvColor" />
+        android:background="@color/white" />
 
     <TextView
         android:id="@+id/purchasedTextView"
@@ -172,7 +172,7 @@
         android:layout_marginHorizontal="20dp"
         android:layout_marginTop="10dp"
         android:text="Silver package purchased"
-        android:textColor="@color/tvColor"
+        android:textColor="@color/white"
         android:visibility="gone" />
 
     <Button

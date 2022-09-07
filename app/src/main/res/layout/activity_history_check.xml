@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/white"
+    android:background="#242E38"
     tools:context=".History_Check">
 
     <androidx.appcompat.widget.Toolbar
@@ -20,9 +20,8 @@
         android:id="@+id/listView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_marginRight="20dp"
-        android:layout_marginLeft="20dp"
         android:layout_below="@+id/toolbar">
+
     </ListView>
 
 </RelativeLayout>

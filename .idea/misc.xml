@@ -3,8 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Azan Comp/AndroidStudioProjects/Net_Speed_Test/app/src/main/res/layout/activity_donate.xml" value="0.14635416666666667" />
-        <entry key="..\:/Users/Azan Comp/AndroidStudioProjects/Net_Speed_Test/app/src/main/res/layout/activity_main.xml" value="0.14635416666666667" />
+        <entry key="app/src/main/res/drawable/ic_baseline_delete_outline_24.xml" value="0.125" />
         <entry key="app/src/main/res/layout/activity_donate.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/activity_history_check.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19610507246376813" />

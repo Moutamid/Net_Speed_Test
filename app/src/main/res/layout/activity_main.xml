@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/white"
+    android:background="#242E38"
     tools:context=".MainActivity">
 
     <androidx.appcompat.widget.Toolbar
@@ -29,7 +29,7 @@
             android:textStyle="italic"
             android:textSize="15dp"
             android:layout_weight="1"
-            android:textColor="@color/black"
+            android:textColor="@color/white"
             android:text="Privacy Policy"/>
 
         <Button
@@ -55,9 +55,9 @@
         android:layout_height="250dp"
         android:layout_centerInParent="true"
         android:background="@android:color/transparent"
-        app:backimage="@color/black"
-        app:linecolor="#fff"
-        app:needlecolor="#fff"
+        app:backimage="@color/white"
+        app:linecolor="@color/black"
+        app:needlecolor="@color/black"
         app:removeborder="false" />
 
     <LinearLayout
@@ -98,7 +98,7 @@
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        app:cardBackgroundColor="@color/white"
+        app:cardBackgroundColor="#2F363E"
         android:layout_above="@+id/layout_buttons"
         android:layout_margin="10dp"
         app:cardCornerRadius="10dp"
@@ -130,7 +130,7 @@
                 android:textSize="20sp"
                 android:textStyle="bold|italic"
                 android:layout_below="@+id/speedometerview"
-                android:textColor="@color/black" />
+                android:textColor="@color/white" />
 
         </LinearLayout>
     </androidx.cardview.widget.CardView>
