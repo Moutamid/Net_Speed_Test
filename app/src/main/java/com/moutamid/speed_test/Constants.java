@@ -1,7 +1,7 @@
 package com.moutamid.speed_test;
 
 public class Constants {
-    public static final String LICENSE_KEY = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArq6xAXes31EJA3PZ5FQNd4CAiBqOK6hS9ZUWOLxUS6CeAid3+j38pxEysF7vdEOJhw3pT+Ygr76ZbPM3Vg5GKM+PhdYk+pqdVzzun55EHOOi+KkCjrgJ5jDlR48ZGBzvgPSSbcfKY1nFAvhlW+emD/hRFN5o913lWlvUFpFLznn3DHINJBFqqpHXoIyFzDSK3vuJ+w5nDY5osbmJgatbpg+WjetQAZ8caDmfkD8VRZQILGIHZn/9qspMWjjxNO6DYy8S/WfNKXOzc83YYAum5TuvLY4bPBUdG7HC2ZOWR5/uBgr647BuxergEGz6RUgzmRybxB0jgShG5YM2u9cWiQIDAQAB";
+    public static final String LICENSE_KEY = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk/hRa2nprWSIIjOTZ5rc/geAVlxhqugsMr6rbyFVXbAU58ppe70BiX8OzWts47cUsT5s1hRBJ71Qq+5WKzZ2j9LZLFaYato9FGLdr86VjwvIEJIEJL0nec/F3lCg/9nm6ir31mXdqgkjSTmk6i38CWR2tiiHw0c66GNZu/qbIGgmKviuWs9ll5ayIW1G97pw2PnLjm+IoKGlmN6xj+imk3ZN2K4uA5osYty5IZhoVT6eN1LkDwXbCdLcvaZJ+M3y7NhOrnrOKlObIEsXKg1TT5zUIOA64XJAFGaDKz7T2QZKHv5v/Qu/ADoDyXSt2B9Bt1BvVubFyRARsCmQpyQvawIDAQAB";
     public static final String TWO_HUNDRED_DOLLAR_PRODUCT = "two.hundred.com.moutamid.speed_test";
     public static final String TWO_TWENTY_FIVE_DOLLAR_PRODUCT = "two.twenty.five.com.moutamid.speed_test";
     public static final String TWO_FORTY_SIX_DOLLAR_PRODUCT = "two.forty.six.com.moutamid.speed_test";

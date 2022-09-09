@@ -4,9 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/ic_baseline_delete_outline_24.xml" value="0.125" />
+        <entry key="app/src/main/res/drawable/shape_rect01.xml" value="0.125" />
         <entry key="app/src/main/res/layout/activity_donate.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/activity_history_check.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/content_main.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/row.xml" value="0.19610507246376813" />
       </map>

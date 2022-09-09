@@ -23,7 +23,7 @@ public class DonateActivity extends AppCompatActivity implements BillingProcesso
 
         bp = BillingProcessor.newBillingProcessor(this, Constants.LICENSE_KEY, this);
         bp.initialize();
-
+/*
         findViewById(R.id.twohundred).setOnClickListener((View.OnClickListener) view -> {
             bp.purchase(DonateActivity.this, Constants.TWO_HUNDRED_DOLLAR_PRODUCT);
         });
@@ -40,7 +40,7 @@ public class DonateActivity extends AppCompatActivity implements BillingProcesso
         );
         findViewById(R.id.threehundred).setOnClickListener((View.OnClickListener) view ->
                 bp.subscribe(DonateActivity.this, Constants.THREE_HUNDRED_DOLLAR_PRODUCT)
-        );
+        );*/
     }
 
     @Override
